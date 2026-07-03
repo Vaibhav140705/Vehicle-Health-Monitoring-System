@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# for arduino and embedded projects:
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+.vscode/
+build/
+*.bak
+*.tmp
